@@ -36,7 +36,7 @@ public class FoodOrderSystem extends JFrame{
                 if (a5OffRadioButton.isSelected()) total -= total*.05;
                 else if (a10OffRadioButton.isSelected()) total -= total*0.10;
                 else if (a15OffRadioButton.isSelected()) total -= total*0.15;
-            JOptionPane.showMessageDialog(null, "The Total price is Php " + total);
+            JOptionPane.showMessageDialog(null, "The Total price is Php " + String.format("%.2f", total));
             }
         });
     }

@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e46c0cd9-daba-4e3d-88bc-e9e22b3098d2" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/FoodOrderingSystem/FoodOrderSystem.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FoodOrderingSystem/FoodOrderSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalculator.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e46c0cd9-daba-4e3d-88bc-e9e22b3098d2" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700122927411</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1700126395651</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700126395651</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e46c0cd9-daba-4e3d-88bc-e9e22b3098d2" name="Changes" comment="Initial commit">
-      <changelist_data name="LAB12_USER ON WS08" email="l12y16w08@citulab.net" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear/LeapYearChecker.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear/LeapYearChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FoodOrderingSystem/FoodOrderSystem.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FoodOrderingSystem/FoodOrderSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalculator.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +30,20 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="04beb221-ba15-4ae6-9adc-10b3b26dbefb" />
+        <option name="url" value="https://github.com/Aipse-bot/Espia_GUI.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,7 +59,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "261"
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "156",
+    "last_opened_file_path": "C:/Users/L12Y16W08/IdeaProjects/GUI",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -56,7 +75,26 @@
       <option name="presentableId" value="Default" />
       <updated>1700120118761</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1700122927411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700122927411</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
